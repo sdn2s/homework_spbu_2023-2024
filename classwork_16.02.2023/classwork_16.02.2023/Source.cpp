@@ -5,9 +5,9 @@ using namespace std;
 int main() {
 	setlocale(LC_ALL, "RU");
 	int x;
-	set<int> s; //множество целых чисел s
+	set<int> s; //the set of integers s
 
-	while (cin >> x) { //заполняем s, пока не получим пустую строку
+	while (cin >> x) { //fill in s until we get an empty string
 		s.insert(x);
 	}
 
