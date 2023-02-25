@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-
+	setlocale(LC_ALL, "RU");
 	int x;
 	set<int> s; //множество целых чисел s
 
