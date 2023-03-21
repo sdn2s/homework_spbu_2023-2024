@@ -14,8 +14,9 @@ int main() {
 	map<int, int>::const_iterator it = m.begin();
 
 	while (cin >> k) {
-		m[k] = i;
-		i += 1;
+
+		++m[k];
+
 	}
 	for (auto x : m) {
 		cout << x.first << " -> " << x.second << endl;
