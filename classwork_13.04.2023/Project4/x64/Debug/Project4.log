@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\homework_spbu_2023-2024\classwork_13.04.2023\Project4\Source.cpp(8,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\homework_spbu_2023-2024\classwork_13.04.2023\Project4\Source.cpp(9,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Project4.vcxproj -> D:\homework_spbu_2023-2024\classwork_13.04.2023\Project4\x64\Debug\Project4.exe
