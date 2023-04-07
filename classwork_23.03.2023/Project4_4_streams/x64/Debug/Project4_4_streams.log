@@ -1,0 +1,2 @@
+﻿  Source.cpp
+D:\homework_spbu_2023-2024\classwork_23.03.2023\Project4_4_streams\Source.cpp(25,17): error C3016: i: переменная индекса в операторе For директивы OpenMP должна иметь тип целого со знаком
